@@ -1,5 +1,5 @@
 # Software Project Management
-## Course: CS4044 Software Project Management
+## Course: CS4044 Fundamentals of Software Project Management
 ## Instructor: Sir Ubaid Aftab
 
 ## Project Overview
