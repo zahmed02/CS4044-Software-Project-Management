@@ -1,3 +1,7 @@
+# Software Project Management
+## Course: CS4044 Software Project Management
+## Instructor: Sir Ubaid Aftab
+
 ## Project Overview
 
 **NutriLens** is an AI-driven mobile application concept that eliminates manual food logging by enabling users to photograph meals, receive instant macro estimates, and get intelligent meal recommendations to achieve daily nutrition goals.
